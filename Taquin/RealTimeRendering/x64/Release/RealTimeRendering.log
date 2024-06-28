@@ -1,0 +1,25 @@
+﻿  Camera.c
+  main.c
+C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\RealTimeRendering\main.c(17,15): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\RealTimeRendering\main.c(133,33): warning C4133: 'fonction' : types incompatibles - de 'Window *' à 'SDL_Window *'
+C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\RealTimeRendering\main.c(96,10): warning C4101: 'meshCenter' : variable locale non référencée
+  Material.c
+  Matrix.c
+C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\RealTimeRendering\Matrix.c(133,1): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Mesh.c
+  Object.c
+  Graphics.c
+  Renderer.c
+  Scene.c
+  Settings.c
+  Shader.c
+  Tools.c
+  Timer.c
+  Vector.c
+C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\RealTimeRendering\Vector.c(139,59): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Window.c
+  Génération de code en cours
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  RealTimeRendering.vcxproj -> C:\Users\Luan\Desktop\tp rendu 3d\LEFEBVRE_PRAUD\LEFEBVRE_PRAUD\Bin\RealTimeRendering.exe

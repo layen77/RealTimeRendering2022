@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minec\\Desktop\\LEFEBVRE_PRAUD\\LEFEBVRE_PRAUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54C3BFB-1C67-4757-BC55-2E24B8318DED}|RealTimeRendering\\RealTimeRendering.vcxproj|C:\\Users\\minec\\Desktop\\LEFEBVRE_PRAUD\\LEFEBVRE_PRAUD\\RealTimeRendering\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D54C3BFB-1C67-4757-BC55-2E24B8318DED}|RealTimeRendering\\RealTimeRendering.vcxproj|solutionrelative:RealTimeRendering\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\minec\\Desktop\\LEFEBVRE_PRAUD\\LEFEBVRE_PRAUD\\RealTimeRendering\\main.c",
+              "RelativeDocumentMoniker": "RealTimeRendering\\main.c",
+              "ToolTip": "C:\\Users\\minec\\Desktop\\LEFEBVRE_PRAUD\\LEFEBVRE_PRAUD\\RealTimeRendering\\main.c",
+              "RelativeToolTip": "RealTimeRendering\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-28T18:34:00.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
